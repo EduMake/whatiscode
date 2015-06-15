@@ -1,4 +1,8 @@
-http://www.bloomberg.com/whatiscode
+# UTC Sheffield Version
+
+http://utc-sheffield.github.io/whatiscode/
+
+This is an abridged verion of http://www.bloomberg.com/whatiscode , it cuts out sections not relevant to a Student audience and is permitted under the license below as it only removes conent and adds nothing copyright-able.
 
 #### LICENSE
 ---
